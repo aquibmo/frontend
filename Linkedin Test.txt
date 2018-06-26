@@ -1,4 +1,4 @@
-<head> 20861228
+<head>
     <script type="text/javascript" src="https://platform.linkedin.com/in.js">
     api_key: 14characters
     onLoad: onLinkedInLoad, onLinkedInAuth
